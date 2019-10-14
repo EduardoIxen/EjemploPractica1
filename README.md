@@ -1,0 +1,2 @@
+# EjemploPractica1
+Tamagochi
